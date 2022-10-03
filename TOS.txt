@@ -1,0 +1,3 @@
+L'utilisation du bot CapBot doit rester dans le respect des terms of services de discord.
+https://discord.com/tos
+Tous abus se verra sanctionner par un blacklist du programme CapBot.
